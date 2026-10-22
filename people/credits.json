@@ -1,0 +1,56 @@
+[
+  {
+    "image": "people/mariana-carvalho.jpg",
+    "subject": "Mariana Carvalho, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Brazilian woman, mid forties, shoulder-length curly dark brown hair, warm brown skin, a denim shirt with a lanyard around her neck. Beside a parked delivery van on a São Paulo street in the morning, a crew member's phone photo, holding a printed route sheet and smiling at someone out of frame. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/simran-sandhu.jpg",
+    "subject": "Simran Sandhu, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Punjabi Indian woman, mid thirties, long black hair in a side braid, small silver nose stud, a mustard kurta with a dark cardigan. In a busy wholesale grain market in Ludhiana in the morning, a colleague's candid phone photo, looking at a phone while traders stand behind her. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/dwi-santoso.jpg",
+    "subject": "Dwi Santoso, an AI-agent persona (not a real person)",
+    "style": "blurry phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A blurry, hurried smartphone photo, vertical: slightly out of focus with a little motion blur. Javanese Indonesian man, early thirties, short black hair, light stubble, an olive field vest over a grey t-shirt. On the pavement outside a row of small shops in Surabaya at midday, taken in a hurry by a crew member, slightly motion-blurred, laughing and pointing at a shop sign. Head and shoulders, natural light, candid, unretouched, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/lourdes-villanueva.jpg",
+    "subject": "Lourdes Villanueva, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Filipina woman, late forties, shoulder-length black hair with a side part, a white blouse with a small embroidered collar, a wristwatch. Under the awning of a small corner store on a Cebu street at midday, holding a clipboard, mid-laugh, a candid phone photo. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/ruben-quispe.jpg",
+    "subject": "Rubén Quispe, an AI-agent persona (not a real person)",
+    "style": "logo avatar",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A simple personal logo mark used as a profile picture, vertical, centred on a plain background so that a square crop keeps it. A simple round mark in terracotta and slate blue, a survey pin standing on three stacked contour lines, no letters. Flat shapes, two or three colours. No letters, no words, no brand.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/jiyoung-seo.jpg",
+    "subject": "Jiyoung Seo, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Korean woman, early thirties, straight black bob with a fringe, small silver stud earrings, an oversized beige trench coat. Waiting at a Seoul bus stop at dusk, looking at her phone, city lights behind, a friend's quick phone photo. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  }
+]
